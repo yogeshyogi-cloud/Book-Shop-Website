@@ -1,0 +1,5 @@
+<html>
+<title>Admit Login</title>
+Email:<input type="text" placeholder="some@ex.com" required>
+PassWord:<input type="text" placeholder="some@ex.com" required>
+</html>
